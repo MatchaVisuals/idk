@@ -1,10 +1,44 @@
 
 
 body{
-    background-color: silver;
+    background-color: rgba(12, 10, 20, 0.925);
     color: sienna;
 
     font-size: 26px;
-    line-height: 3px;
+    line-height: 5px;
+    margin: 0;
+}
+
+.container{
+    width: 500px;
+    margin: auto;
+}
+
+
+.box-1{
+
+    background-color: rgb(27, 27, 36);
+    color: rgba(180, 0, 0, 0.87);
+
+    border-right: 6px rgb(19, 68, 19) dotted;
+    border-left: 6px rgb(19, 68, 19) dotted;
+    border-top: 10px rgb(19, 68, 19) solid;
+    border-bottom: 10px rgb(19, 68, 19) solid;
+
+    border-radius: 50px;
+
+    padding: 60px;
+
+    margin-top: 60px;
 
 }
+
+
+
+
+
+
+
+
+
+
