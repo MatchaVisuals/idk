@@ -52,7 +52,7 @@ body{
 
 .myform input[type="submit"]{
     background-color: aqua;
-    color: blue;
+    color: rgb(23, 23, 95);
     padding: 10px 15px;
     border: none;
 }
