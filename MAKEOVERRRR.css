@@ -33,9 +33,29 @@ body{
 
 }
 
+.myform{
+    padding: 20px;
+}
 
+.myform .form-group{
+    padding-bottom: 15px;
+}
 
+.myform label{
+    display: block;
+}
 
+.myform input[type="text"], .myform textarea{
+    padding: 8px;
+    width: 100%;
+}
+
+.myform input[type="submit"]{
+    background-color: aqua;
+    color: blue;
+    padding: 10px 15px;
+    border: none;
+}
 
 
 
