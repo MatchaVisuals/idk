@@ -43,6 +43,7 @@ body{
 
 .myform label{
     display: block;
+    padding: 20px;
 }
 
 .myform input[type="text"], .myform textarea{
