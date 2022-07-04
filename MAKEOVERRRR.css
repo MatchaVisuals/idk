@@ -58,7 +58,15 @@ body{
     border: none;
 }
 
+.block{
+    float: left;
+    width: 30%;
 
+    font-size: 20px;
+    line-height: 25px;
+    margin: 5px;
+    margin-left: 20px;
+}
 
 
 
